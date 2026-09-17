@@ -112,8 +112,6 @@ This skill is a community tool crafted to help AI agents generate idiomatic, hig
 
 ---
 
-## Author & License
+## License
 
-* **Author**: Cumhur ([@cumhur](https://github.com/cumhur))
-* **Email**: mustafacumhurkaya@gmail.com
-* **License**: [MIT](LICENSE)
+* **License**: [MIT](LICENSE) (only SKILL license, Not GEA)
