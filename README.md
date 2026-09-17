@@ -55,35 +55,43 @@ gea-ui-engineering-skill/
 
 ## Installation
 
-### 1. Google Antigravity IDE
+### 🚀 Easiest Method: Ask Your AI Coding Agent (Recommended)
 
-#### Global Installation (Available across all projects)
-Clone this repository into your Antigravity skills directory:
-```bash
-git clone https://github.com/cumhur/gea-ui-engineering-skill.git ~/.gemini/config/skills/gea-ui-engineering
-```
+Simply share this repository link with your AI coding assistant (Google Antigravity, Claude Code, Cursor, Codex, etc.) and prompt it:
 
-#### Project-Local Installation
-Clone directly into your project's agent skills directory:
-```bash
-git clone https://github.com/cumhur/gea-ui-engineering-skill.git .agents/skills/gea-ui-engineering
-```
+> *"Please install the Gea skill from https://github.com/cumhur/gea-ui-engineering-skill onto my environment."*
+
+Your agent will automatically clone or download the skill into the appropriate directory (`~/.gemini/config/skills/`, `~/.claude/skills/`, or `.agents/skills/`) and configure it for immediate use.
 
 ---
 
-### 2. Claude Code
+### 🛠️ Manual Installation Options
 
-Clone into Claude Code's global skills directory:
-```bash
-git clone https://github.com/cumhur/gea-ui-engineering-skill.git ~/.claude/skills/gea-ui-engineering
-```
+If you prefer to install it manually in your environment:
 
----
+#### 1. Google Antigravity IDE
 
-### 3. Direct Zip Download (.skill)
+* **Global Installation (Available across all projects):**
+  ```bash
+  git clone https://github.com/cumhur/gea-ui-engineering-skill.git ~/.gemini/config/skills/gea-ui-engineering
+  ```
 
-You can also download the pre-packaged archive directly from the repository root:
-* [gea-ui-engineering.skill](gea-ui-engineering.skill)
+* **Project-Local Installation (Specific project only):**
+  ```bash
+  git clone https://github.com/cumhur/gea-ui-engineering-skill.git .agents/skills/gea-ui-engineering
+  ```
+
+#### 2. Claude Code
+
+* **Global Installation:**
+  ```bash
+  git clone https://github.com/cumhur/gea-ui-engineering-skill.git ~/.claude/skills/gea-ui-engineering
+  ```
+
+#### 3. Direct Zip Download (.skill)
+
+You can also download the pre-packaged archive directly from the repository:
+* [gea-ui-engineering.skill](gea-ui-engineering.skill) (Extract into your agent's skills directory)
 
 ---
 
