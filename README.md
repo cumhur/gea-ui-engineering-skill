@@ -3,9 +3,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Compatible with Antigravity](https://img.shields.io/badge/Antigravity-Compatible-green.svg)](#installation)
 [![Compatible with Claude Code](https://img.shields.io/badge/Claude%20Code-Compatible-orange.svg)](#installation)
-[![Ecosystem](https://img.shields.io/badge/Ecosystem-@geajs/core-purple.svg)](https://github.com/geajs)
+[![Gea Framework](https://img.shields.io/badge/Gea-dashersw%2Fgea-purple.svg)](https://github.com/dashersw/gea)
 
-An expert-grade AI Agent Skill for building, refactoring, debugging, and optimizing ultra-light reactive web applications with **Gea** (`@geajs/core` ecosystem).
+An expert-grade AI Agent Skill for building, refactoring, debugging, and optimizing ultra-light reactive web applications with **[Gea](https://github.com/dashersw/gea)** (`@geajs/core` ecosystem).
 
 Compatible with **Google Antigravity IDE**, **Claude Code**, **Cursor**, **Codex**, and other AI coding assistants supporting the open Skill specification (`SKILL.md`).
 
@@ -13,7 +13,7 @@ Compatible with **Google Antigravity IDE**, **Claude Code**, **Cursor**, **Codex
 
 ## What is Gea?
 
-**Gea** is a compiler-first, ultra-lightweight reactive UI framework for the browser. Unlike heavy virtual-DOM or runtime-heavy frameworks, Gea leverages:
+**[Gea](https://github.com/dashersw/gea)** is a compiler-first, ultra-lightweight reactive UI framework for the browser, created by [Armağan Amcalar](https://github.com/dashersw) ([@dashersw](https://github.com/dashersw)). Unlike heavy virtual-DOM or runtime-heavy frameworks, Gea leverages:
 - **Compile-time JSX**: Surgical DOM updates without virtual-DOM overhead.
 - **Proxy-based Stores**: Clean, reactive state classes with native getters and observation.
 - **Direct DOM Ownership**: Deterministic component lifecycles and micro-bundle sizes.
@@ -100,6 +100,15 @@ cd my-gea-app
 npm install
 npm run dev
 ```
+
+---
+
+## Acknowledgements & Credits
+
+* **Gea Creator**: [Armağan Amcalar](https://github.com/dashersw) ([@dashersw](https://github.com/dashersw))
+* **Original Repository**: [dashersw/gea](https://github.com/dashersw/gea)
+
+This skill is a community tool crafted to help AI agents generate idiomatic, high-performance code following Gea's design philosophy and architecture.
 
 ---
 
